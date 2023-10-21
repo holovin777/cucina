@@ -3,9 +3,11 @@ import { Link, type DocumentHead } from "@builder.io/qwik-city";
 
 export default component$(() => {
   return (
-    <>
-      <h1>Le mie <Link href="/ricette/">ricette</Link></h1>
-    </>
+    <ul>
+      <li>
+        <button><h1><Link href="/vegetariane/">Vegetariane</Link></h1></button>
+      </li>
+    </ul>
   );
 });
 
