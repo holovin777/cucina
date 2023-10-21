@@ -8,6 +8,8 @@
  *
  */
 html {
+  background-color: black;
+  color: white;
   font-size: 125%;
   -webkit-text-size-adjust: 100%;
   -moz-tab-size: 4;
