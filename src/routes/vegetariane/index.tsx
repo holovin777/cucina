@@ -7,6 +7,13 @@ export default component$(() => {
       <li>
         <button>
           <h1>
+            <Link href="/vegetariane/frittata-alle-erbe-e-formaggio/">Frittata alle Erbe e Formaggio</Link>
+          </h1>
+        </button>
+      </li>
+      <li>
+        <button>
+          <h1>
             <Link href="/vegetariane/insalata-di-ceci-con-avocado-e-pomodori-ciliegia/">Insalata di Ceci con Avocado e Pomodori Ciliegia</Link>
           </h1>
         </button>
@@ -14,14 +21,14 @@ export default component$(() => {
       <li>
         <button>
           <h1>
-            <Link href="/vegetariane/pasta-con-verdure-miste/">Pasta con verdure miste</Link>
+            <Link href="/vegetariane/insalata-di-pasta-con-salsa-di-ceci-e-formaggio/">Insalata di Pasta con Salsa di Ceci e Formaggio</Link>
           </h1>
         </button>
       </li>
       <li>
         <button>
           <h1>
-            <Link href="/vegetariane/frittata-alle-erbe-e-formaggio/">Frittata alle Erbe e Formaggio</Link>
+            <Link href="/vegetariane/pasta-con-verdure-miste/">Pasta con verdure miste</Link>
           </h1>
         </button>
       </li>
