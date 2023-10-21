@@ -32,6 +32,13 @@ export default component$(() => {
           </h1>
         </button>
       </li>
+      <li>
+        <button>
+          <h1>
+            <Link href="/vegetariane/risotto-ai-funghi/">Risotto ai Fungi</Link>
+          </h1>
+        </button>
+      </li>
     </ul>
   );
 });
