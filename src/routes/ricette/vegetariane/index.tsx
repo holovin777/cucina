@@ -42,6 +42,13 @@ export default component$(() => {
       <li>
         <button>
           <h1>
+            <Link href="/ricette/vegetariane/minestra-di-fagioli-borlotti/">Minestra di Fagioli Borlotti</Link>
+          </h1>
+        </button>
+      </li>
+      <li>
+        <button>
+          <h1>
             <Link href="/ricette/vegetariane/risotto-ai-funghi/">Risotto ai Fungi</Link>
           </h1>
         </button>
