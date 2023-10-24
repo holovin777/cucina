@@ -7,42 +7,42 @@ export default component$(() => {
       <li>
         <button>
           <h1>
-            <Link href="/vegetariane/frittata-alle-erbe-e-formaggio/">Frittata alle Erbe e Formaggio</Link>
+            <Link href="/ricette/vegetariane/frittata-alle-erbe-e-formaggio/">Frittata alle Erbe e Formaggio</Link>
           </h1>
         </button>
       </li>
       <li>
         <button>
           <h1>
-            <Link href="/vegetariane/insalata-di-ceci-con-avocado-e-pomodori-ciliegia/">Insalata di Ceci con Avocado e Pomodori Ciliegia</Link>
+            <Link href="/ricette/vegetariane/insalata-di-ceci-con-avocado-e-pomodori-ciliegia/">Insalata di Ceci con Avocado e Pomodori Ciliegia</Link>
           </h1>
         </button>
       </li>
       <li>
         <button>
           <h1>
-            <Link href="/vegetariane/insalata-di-pasta-con-salsa-di-ceci-e-formaggio/">Insalata di Pasta con Salsa di Ceci e Formaggio</Link>
+            <Link href="/ricette/vegetariane/insalata-di-pasta-con-salsa-di-ceci-e-formaggio/">Insalata di Pasta con Salsa di Ceci e Formaggio</Link>
           </h1>
         </button>
       </li>
       <li>
         <button>
           <h1>
-            <Link href="/vegetariane/pasta-con-verdure-miste/">Pasta con verdure miste</Link>
+            <Link href="/ricette/vegetariane/pasta-con-verdure-miste/">Pasta con verdure miste</Link>
           </h1>
         </button>
       </li>
       <li>
         <button>
           <h1>
-            <Link href="/vegetariane/quinoa-con-verdure-arrosto/">Quinoa con Verdure Arrosto</Link>
+            <Link href="/ricette/vegetariane/quinoa-con-verdure-arrosto/">Quinoa con Verdure Arrosto</Link>
           </h1>
         </button>
       </li>
       <li>
         <button>
           <h1>
-            <Link href="/vegetariane/risotto-ai-funghi/">Risotto ai Fungi</Link>
+            <Link href="/ricette/vegetariane/risotto-ai-funghi/">Risotto ai Fungi</Link>
           </h1>
         </button>
       </li>

@@ -5,7 +5,18 @@ export default component$(() => {
   return (
     <ul>
       <li>
-        <button><h1><Link href="/vegetariane/">Vegetariane</Link></h1></button>
+        <button>
+          <h1>
+            <Link href="/vegetariane/">Vegetariane</Link>
+          </h1>
+        </button>
+      </li>
+      <li>
+        <button>
+          <h1>
+            <Link href="/a-base-di-carne/">A base di carne</Link>
+          </h1>
+        </button>
       </li>
     </ul>
   );
