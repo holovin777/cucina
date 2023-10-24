@@ -7,14 +7,14 @@ export default component$(() => {
       <li>
         <button>
           <h1>
-            <Link href="/vegetariane/">Vegetariane</Link>
+            <Link href="/ricette/vegetariane/">Vegetariane</Link>
           </h1>
         </button>
       </li>
       <li>
         <button>
           <h1>
-            <Link href="/a-base-di-carne/">A base di carne</Link>
+            <Link href="/ricette/a-base-di-carne/">A base di carne</Link>
           </h1>
         </button>
       </li>
