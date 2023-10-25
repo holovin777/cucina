@@ -7,7 +7,7 @@ export default component$(() => {
       <li>
         <button>
           <h1>
-            <Link href="/ricette/a-base-di-carne/involucri-di-prosciutto-cotto-e-philadelphia/">Frittata alle Erbe e Formaggio</Link>
+            <Link href="/ricette/a-base-di-carne/involucri-di-prosciutto-cotto-e-philadelphia/">Involucri di Prosciutto cotto e Philadelphia</Link>
           </h1>
         </button>
       </li>
