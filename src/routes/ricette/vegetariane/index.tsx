@@ -53,6 +53,13 @@ export default component$(() => {
           </h1>
         </button>
       </li>
+      <li>
+        <button>
+          <h1>
+            <Link href="/ricette/vegetariane/zuppa-di-piselli/">Zuppa di Piselli</Link>
+          </h1>
+        </button>
+      </li>
     </ul>
   );
 });
