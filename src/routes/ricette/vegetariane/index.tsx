@@ -56,6 +56,13 @@ export default component$(() => {
       <li>
         <button>
           <h1>
+            <Link href="/ricette/vegetariane/zuppa-di-grano-saraceno/">Zuppa di Grano Saraceno</Link>
+          </h1>
+        </button>
+      </li>
+      <li>
+        <button>
+          <h1>
             <Link href="/ricette/vegetariane/zuppa-di-piselli/">Zuppa di Piselli</Link>
           </h1>
         </button>
@@ -65,12 +72,11 @@ export default component$(() => {
 });
 
 export const head: DocumentHead = {
-  title: "Welcome to Ricette",
+  title: "Ricette Vegetariane",
   meta: [
     {
       name: "description",
-      content: "Qwik site description",
+      content: "Ricette Vegetariane",
     },
   ],
 };
-
