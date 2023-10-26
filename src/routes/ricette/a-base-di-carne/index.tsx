@@ -4,7 +4,7 @@ import { Li } from "~/components/link/link";
 
 export default component$(() => {
   return (
-    <ul>
+    <ul class="ul">
       <Li
         href="/ricette/a-base-di-carne/involucri-di-prosciutto-cotto-e-philadelphia/"
         name="Involucri di Prosciutto cotto e Philadelphia"
