@@ -17,7 +17,9 @@ export default component$(() => {
   return (
     <>
       <Navbar />
-      <Slot />
+      <div class="slot">
+        <Slot />
+      </div>
     </>
-  )
+  );
 });
