@@ -18,6 +18,10 @@ export default component$(() => {
         name="Insalata di Pasta con Salsa di Ceci e Formaggio"
       />
       <Li
+        href="/ricette/vegetariane/pasta-al-pesto-di-pomodoro-e-basilico/"
+        name="Pasta al Pesto di Pomodoro e Basilico"
+      />
+      <Li
         href="/ricette/vegetariane/pasta-con-verdure-miste/"
         name="Pasta con verdure miste"
       />
