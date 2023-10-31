@@ -6,6 +6,10 @@ export default component$(() => {
   return (
     <ul class="ul">
       <Li
+        href="/ricette/a-base-di-carne/girelle/"
+        name="Girelle"
+      />
+      <Li
         href="/ricette/a-base-di-carne/rotolo-di-prosciutto-cotto-e-philadelphia/"
         name="Rotolo di Prosciutto cotto e Philadelphia"
       />
