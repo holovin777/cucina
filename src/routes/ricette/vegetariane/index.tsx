@@ -10,6 +10,10 @@ export default component$(() => {
         name="Frittata alle Erbe e Formaggio"
       />
       <Li
+        href="/ricette/vegetariane/frittata-vegetariana/"
+        name="Frittata vegetariana"
+      />
+      <Li
         href="/ricette/vegetariane/insalata-di-ceci-con-avocado-e-pomodori-ciliegia/"
         name="Insalata di Ceci con Avocado e Pomodori Ciliegia"
       />
