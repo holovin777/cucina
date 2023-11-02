@@ -4,7 +4,7 @@ import { Link, type DocumentHead } from "@builder.io/qwik-city";
 export default component$(() => {
   return (
     <>
-      <h1>Le mie <Link href="/ricette/">ricette</Link> vegetariane e di carne</h1>
+      <h1>Le mie preferite <Link href="/ricette/">ricette</Link> <Link href="/ricette/vegetariane">vegetariane</Link> e di <Link href="/ricette/a-base-di-carne">carne</Link></h1>
     </>
   );
 });
