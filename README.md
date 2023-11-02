@@ -2,7 +2,7 @@
 
 ```bash
 git@github.com:holovin777/portfolioqwik.git
-cd portfolioqwik
+cd cucina
 npm install
 npm start
 ```
