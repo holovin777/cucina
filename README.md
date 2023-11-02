@@ -1,7 +1,7 @@
 # Cucina
 
 ```bash
-git@github.com:holovin777/portfolioqwik.git
+git clone https://github.com/holovin777/cucina.git
 cd cucina
 npm install
 npm start
