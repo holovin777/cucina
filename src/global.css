@@ -38,10 +38,6 @@ body {
   line-height: inherit;
 }
 
-img {
-  max-width: 100%;
-}
-
 .slot {
   margin: 20px;
 }
@@ -71,4 +67,17 @@ img {
 button {
   background-color: #000;
   border: #000;
+}
+
+@keyframes image {
+  from {opacity: 0%;}
+  to {opacity: 100%;}
+}
+
+img {
+  animation-name: image;
+  animation-duration: 8s;
+
+  max-width: 100%;
+  border-radius: 8px;
 }
