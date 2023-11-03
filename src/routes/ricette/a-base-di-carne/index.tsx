@@ -13,6 +13,10 @@ export default component$(() => {
         href="/ricette/a-base-di-carne/rotolo-di-prosciutto-cotto-e-philadelphia/"
         name="Rotolo di Prosciutto cotto e Philadelphia"
       />
+      <Li
+        href="/ricette/a-base-di-carne/saltimbocca-alla-romana/"
+        name="Saltimbocca alla Romana"
+      />
     </ul>
   );
 });
@@ -26,4 +30,3 @@ export const head: DocumentHead = {
     },
   ],
 };
-
