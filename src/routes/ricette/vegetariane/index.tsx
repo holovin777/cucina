@@ -6,6 +6,10 @@ export default component$(() => {
   return (
     <ul class="ul">
       <Li
+        href="/ricette/vegetariane/couscous-alle-verdure-grigliate/"
+        name="Couscous alle Verdure Grigliate"
+      />
+      <Li
         href="/ricette/vegetariane/frittata-alle-erbe-e-formaggio/"
         name="Frittata alle Erbe e Formaggio"
       />
