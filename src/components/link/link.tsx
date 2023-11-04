@@ -7,11 +7,11 @@ interface LiProps {
 }
 
 export const Li = component$<LiProps>((props) => {
-
   return (
-      <li class="li">
+    <li class="li">
+      <b>
         <Link href={props.href}>{props.name}</Link>
-      </li>
+      </b>
+    </li>
   );
 });
-

@@ -53,12 +53,12 @@ body {
 
 .li a {
   display: block;
-  color: #000;
+  color: #fff;
   text-decoration: none;
   padding: 20px;
   border-radius: 8px;
   margin: 10px;
-  background-color: #999;
+  background-color: #282828;
 }
 
 /* Change the link color on hover */
