@@ -6,14 +6,14 @@ export default component$(() => {
     <>
       <ul class="ul">
         <li class="li">
-          <h1>
+          <h2>
             <Link href="/ricette/a-base-di-carne/">A base di carne</Link>
-          </h1>
+          </h2>
         </li>
         <li class="li">
-          <h1>
+          <h2>
             <Link href="/ricette/vegetariane/">Vegetariane</Link>
-          </h1>
+          </h2>
         </li>
       </ul>
     </>
