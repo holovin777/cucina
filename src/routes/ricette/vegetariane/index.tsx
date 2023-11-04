@@ -10,6 +10,10 @@ export default component$(() => {
         name="Couscous alle Verdure Grigliate"
       />
       <Li
+        href="/ricette/vegetariane/crema-di-zucca/"
+        name="Crema di Zucca"
+      />
+      <Li
         href="/ricette/vegetariane/frittata-alle-erbe-e-formaggio/"
         name="Frittata alle Erbe e Formaggio"
       />
