@@ -53,20 +53,18 @@ body {
 
 .li a {
   display: block;
-  color: #999;
+  color: #000;
   text-decoration: none;
   padding: 20px;
+  border-radius: 8px;
+  margin: 10px;
+  background-color: #999;
 }
 
 /* Change the link color on hover */
 .li a:hover {
-  background-color: #555;
-  color:#000;
-}
-
-button {
   background-color: #000;
-  border: #000;
+  color:#fff;
 }
 
 @keyframes image {

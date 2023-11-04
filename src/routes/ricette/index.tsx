@@ -6,18 +6,14 @@ export default component$(() => {
     <>
       <ul class="ul">
         <li class="li">
-          <button>
-            <h1>
-              <Link href="/ricette/a-base-di-carne/">A base di carne</Link>
-            </h1>
-          </button>
+          <h1>
+            <Link href="/ricette/a-base-di-carne/">A base di carne</Link>
+          </h1>
         </li>
         <li class="li">
-          <button>
-            <h1>
-              <Link href="/ricette/vegetariane/">Vegetariane</Link>
-            </h1>
-          </button>
+          <h1>
+            <Link href="/ricette/vegetariane/">Vegetariane</Link>
+          </h1>
         </li>
       </ul>
     </>
