@@ -8,7 +8,7 @@
  *
  */
 html {
-  background-color: #131313;
+  background-color: #2a2929;
   color: white;
   font-size: 125%;
   -webkit-text-size-adjust: 100%;
@@ -52,12 +52,12 @@ body {
 
 .li a {
   display: block;
-  color: #fff;
+  color: #000000;
   text-decoration: none;
   padding: 20px;
   border-radius: 8px;
   margin: 10px;
-  background-color: #282828;
+  background-color: #818181;
 }
 
 /* Change the link color on hover */
