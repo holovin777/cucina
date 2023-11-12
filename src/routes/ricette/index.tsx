@@ -12,6 +12,11 @@ export default component$(() => {
         </li>
         <li class="li">
           <h2>
+            <Link href="/ricette/a-base-di-pesce/">A base di pesce</Link>
+          </h2>
+        </li>
+        <li class="li">
+          <h2>
             <Link href="/ricette/vegetariane/">Vegetariane</Link>
           </h2>
         </li>
