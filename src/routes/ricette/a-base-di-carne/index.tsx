@@ -6,8 +6,8 @@ export default component$(() => {
   return (
     <ul class="ul">
       <Li
-        href="/ricette/a-base-di-carne/arrosti-di-maiale-con-salsa-di-senape-e-miele/"
-        name="Arrosti di Maiale con Salsa di Senape e Miele"
+        href="/ricette/a-base-di-carne/arrosto-di-maiale-con-salsa-di-senape-e-miele/"
+        name="Arrosto di Maiale con Salsa di Senape e Miele"
       />
       <Li
         href="/ricette/a-base-di-carne/girelle/"
