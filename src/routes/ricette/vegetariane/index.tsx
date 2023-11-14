@@ -30,6 +30,10 @@ export default component$(() => {
         name="Insalata di Pasta con Salsa di Ceci e Formaggio"
       />
       <Li
+        href="/ricette/vegetariane/minestra-di-fagioli-borlotti/"
+        name="Minestra di Fagioli Borlotti"
+      />
+      <Li
         href="/ricette/vegetariane/pasta-al-pesto-di-pomodoro-e-basilico/"
         name="Pasta al Pesto di Pomodoro e Basilico"
       />
@@ -42,12 +46,12 @@ export default component$(() => {
         name="Quinoa con Verdure Arrosto"
       />
       <Li
-        href="/ricette/vegetariane/minestra-di-fagioli-borlotti/"
-        name="Minestra di Fagioli Borlotti"
-      />
-      <Li
         href="/ricette/vegetariane/risotto-ai-funghi/"
         name="Risotto ai Fungi"
+      />
+      <Li
+        href="/ricette/vegetariane/risotto-ai-funghi-e-zafferano/"
+        name="Risotto ai Fungi e Zafferano"
       />
       <Li
         href="/ricette/vegetariane/zuppa-di-grano-saraceno/"
