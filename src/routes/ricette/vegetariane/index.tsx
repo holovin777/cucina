@@ -34,6 +34,10 @@ export default component$(() => {
         name="Minestra di Fagioli Borlotti"
       />
       <Li
+        href="/ricette/vegetariane/pasta-al-pesto-di-avocado/"
+        name="Pasta al pesto di avocado"
+      />
+      <Li
         href="/ricette/vegetariane/pasta-al-pesto-di-pomodoro-e-basilico/"
         name="Pasta al Pesto di Pomodoro e Basilico"
       />
