@@ -38,6 +38,10 @@ export default component$(() => {
         name="Pasta al Pesto di Pomodoro e Basilico"
       />
       <Li
+        href="/ricette/vegetariane/pasta-alla-carbonara/"
+        name="Pasta alla Carbonara"
+      />
+      <Li
         href="/ricette/vegetariane/pasta-con-verdure-miste/"
         name="Pasta con verdure miste"
       />
