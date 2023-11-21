@@ -1,6 +1,6 @@
 import { component$ } from "@builder.io/qwik";
 import { type DocumentHead } from "@builder.io/qwik-city";
-import { Li } from "~/components/link/link";
+import { Li } from "~/components/li/li";
 
 export default component$(() => {
   return (
@@ -12,6 +12,10 @@ export default component$(() => {
       <Li
         href="/ricette/a-base-di-carne/girelle/"
         name="Girelle"
+      />
+      <Li
+        href="/ricette/a-base-di-carne/pasta-alla-carbonara/"
+        name="Pasta alla Carbonara"
       />
       <Li
         href="/ricette/a-base-di-carne/rotolo-di-prosciutto-cotto-e-philadelphia/"
