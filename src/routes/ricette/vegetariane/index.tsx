@@ -1,6 +1,6 @@
 import { component$ } from "@builder.io/qwik";
 import { type DocumentHead } from "@builder.io/qwik-city";
-import { Li } from "~/components/link/link";
+import { Li } from "~/components/li/li";
 
 export default component$(() => {
   return (
@@ -40,10 +40,6 @@ export default component$(() => {
       <Li
         href="/ricette/vegetariane/pasta-al-pesto-di-pomodoro-e-basilico/"
         name="Pasta al Pesto di Pomodoro e Basilico"
-      />
-      <Li
-        href="/ricette/vegetariane/pasta-alla-carbonara/"
-        name="Pasta alla Carbonara"
       />
       <Li
         href="/ricette/vegetariane/pasta-con-verdure-miste/"
