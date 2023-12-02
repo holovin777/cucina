@@ -59,7 +59,7 @@ export default component$(() => {
       />
       <Li
         href="/ricette/vegetariane/risotto-con-cavolo-e-gorgonzola/"
-        name="Risotto con Cavolo e gorgonzolla"
+        name="Risotto con Cavolo e Gorgonzola"
       />
       <Li
         href="/ricette/vegetariane/spaghetti-alla-puttanesca-vegetariana/"
