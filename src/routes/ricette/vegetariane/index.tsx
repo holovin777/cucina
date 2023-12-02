@@ -58,6 +58,10 @@ export default component$(() => {
         name="Risotto ai Fungi e Zafferano"
       />
       <Li
+        href="/ricette/vegetariane/risotto-con-cavolo-e-gorgonzola/"
+        name="Risotto con Cavolo e gorgonzolla"
+      />
+      <Li
         href="/ricette/vegetariane/spaghetti-alla-puttanesca-vegetariana/"
         name="Spaghetti alla Puttanesca Vegetariana"
       />
