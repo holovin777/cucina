@@ -62,6 +62,10 @@ export default component$(() => {
         name="Spaghetti alla Puttanesca Vegetariana"
       />
       <Li
+        href="/ricette/vegetariane/zuppa-di-cavolo-e-lenticchie/"
+        name="Zuppa di Cavolo e Lenticchie"
+      />
+      <Li
         href="/ricette/vegetariane/zuppa-di-grano-saraceno/"
         name="Zuppa di Grano Saraceno"
       />
