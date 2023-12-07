@@ -30,6 +30,10 @@ export default component$(() => {
         name="Insalata di Pasta con Salsa di Ceci e Formaggio"
       />
       <Li
+        href="/ricette/vegetariane/minestrone-con-cavolo-nero/"
+        name="Minestrone con Cavolo Nero"
+      />
+      <Li
         href="/ricette/vegetariane/minestra-di-fagioli-borlotti/"
         name="Minestra di Fagioli Borlotti"
       />
