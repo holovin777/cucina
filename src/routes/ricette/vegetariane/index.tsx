@@ -46,6 +46,10 @@ export default component$(() => {
         name="Pasta al Pesto di Pomodoro e Basilico"
       />
       <Li
+        href="/ricette/vegetariane/pasta-con-cavolo-nero/"
+        name="Pasta con Cavolo Nero"
+      />
+      <Li
         href="/ricette/vegetariane/pasta-con-verdure-miste/"
         name="Pasta con verdure miste"
       />
